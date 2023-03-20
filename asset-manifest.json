@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redux-learning/static/css/main.e6c13ad2.css",
+    "main.js": "/redux-learning/static/js/main.3fc9b707.js",
+    "static/js/787.174f8a24.chunk.js": "/redux-learning/static/js/787.174f8a24.chunk.js",
+    "index.html": "/redux-learning/index.html",
+    "main.e6c13ad2.css.map": "/redux-learning/static/css/main.e6c13ad2.css.map",
+    "main.3fc9b707.js.map": "/redux-learning/static/js/main.3fc9b707.js.map",
+    "787.174f8a24.chunk.js.map": "/redux-learning/static/js/787.174f8a24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3fc9b707.js"
+  ]
+}
